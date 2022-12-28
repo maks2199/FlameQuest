@@ -1,0 +1,1478 @@
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: Array
+(
+    [update_id] => 786115690
+    [message] => Array
+        (
+            [message_id] => 44
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612989243
+            [text] => Ы
+        )
+
+)
+
+$data: 
+$data: 
+$data: Array
+(
+    [update_id] => 786115691
+    [message] => Array
+        (
+            [message_id] => 45
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612991040
+            [text] => Привет
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115692
+    [message] => Array
+        (
+            [message_id] => 46
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612991045
+            [text] => Текст
+        )
+
+)
+
+$data: 
+$data: Array
+(
+    [update_id] => 786115693
+    [message] => Array
+        (
+            [message_id] => 47
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612992085
+            [text] => Хай
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115694
+    [message] => Array
+        (
+            [message_id] => 49
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612992090
+            [text] => Текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115695
+    [message] => Array
+        (
+            [message_id] => 51
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612992095
+            [text] => КнОпка
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115696
+    [message] => Array
+        (
+            [message_id] => 53
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612992098
+            [text] => Кнопки
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115697
+    [message] => Array
+        (
+            [message_id] => 55
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612992103
+            [text] => Кнопка1
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115698
+    [message] => Array
+        (
+            [message_id] => 57
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1612992842
+            [text] => ы
+        )
+
+)
+
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: Array
+(
+    [update_id] => 786115699
+    [message] => Array
+        (
+            [message_id] => 59
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613030141
+            [text] => привет
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115700
+    [message] => Array
+        (
+            [message_id] => 61
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613030146
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115701
+    [message] => Array
+        (
+            [message_id] => 63
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613030151
+            [text] => кнопки
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115702
+    [message] => Array
+        (
+            [message_id] => 65
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613030153
+            [text] => Кнопка1
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115703
+    [message] => Array
+        (
+            [message_id] => 67
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613030154
+            [text] => Кнопка2
+        )
+
+)
+
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: 
+$data: Array
+(
+    [update_id] => 786115704
+    [message] => Array
+        (
+            [message_id] => 69
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613150559
+            [text] => хай
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115705
+    [message] => Array
+        (
+            [message_id] => 71
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613150564
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115706
+    [message] => Array
+        (
+            [message_id] => 73
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613150934
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115707
+    [message] => Array
+        (
+            [message_id] => 75
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613150938
+            [text] => текст
+        )
+
+)
+
+$data: 
+$data: 
+$data: Array
+(
+    [update_id] => 786115708
+    [message] => Array
+        (
+            [message_id] => 76
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151018
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115709
+    [message] => Array
+        (
+            [message_id] => 78
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151024
+            [text] => текст
+        )
+
+)
+
+$data: 
+$data: Array
+(
+    [update_id] => 786115710
+    [message] => Array
+        (
+            [message_id] => 79
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151252
+            [text] => ы
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115711
+    [message] => Array
+        (
+            [message_id] => 81
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151254
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115712
+    [message] => Array
+        (
+            [message_id] => 82
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151348
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115713
+    [message] => Array
+        (
+            [message_id] => 84
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151353
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115714
+    [message] => Array
+        (
+            [message_id] => 85
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151586
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115715
+    [message] => Array
+        (
+            [message_id] => 87
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151589
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115716
+    [message] => Array
+        (
+            [message_id] => 88
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151809
+            [text] => ы
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115717
+    [message] => Array
+        (
+            [message_id] => 90
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613151814
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115718
+    [message] => Array
+        (
+            [message_id] => 91
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152176
+            [text] => кнопки
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115719
+    [message] => Array
+        (
+            [message_id] => 93
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152182
+            [text] => текст
+        )
+
+)
+
+$data: 
+$data: Array
+(
+    [update_id] => 786115720
+    [message] => Array
+        (
+            [message_id] => 94
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152271
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115721
+    [message] => Array
+        (
+            [message_id] => 95
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152275
+            [text] => ы
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115722
+    [message] => Array
+        (
+            [message_id] => 97
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152356
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115723
+    [message] => Array
+        (
+            [message_id] => 99
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152367
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115724
+    [message] => Array
+        (
+            [message_id] => 101
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152370
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115725
+    [message] => Array
+        (
+            [message_id] => 102
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152408
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115726
+    [message] => Array
+        (
+            [message_id] => 103
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152419
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115727
+    [message] => Array
+        (
+            [message_id] => 104
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152459
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115728
+    [message] => Array
+        (
+            [message_id] => 105
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152468
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115729
+    [message] => Array
+        (
+            [message_id] => 107
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152476
+            [text] => тыы
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115730
+    [message] => Array
+        (
+            [message_id] => 109
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152479
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115731
+    [message] => Array
+        (
+            [message_id] => 110
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152546
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115732
+    [message] => Array
+        (
+            [message_id] => 112
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152549
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115733
+    [message] => Array
+        (
+            [message_id] => 113
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152560
+            [text] => ы
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115734
+    [message] => Array
+        (
+            [message_id] => 115
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152562
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115735
+    [message] => Array
+        (
+            [message_id] => 116
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152599
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115736
+    [message] => Array
+        (
+            [message_id] => 118
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152601
+            [text] => текст
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115737
+    [message] => Array
+        (
+            [message_id] => 119
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152957
+            [text] => s
+        )
+
+)
+
+$data: Array
+(
+    [update_id] => 786115738
+    [message] => Array
+        (
+            [message_id] => 121
+            [from] => Array
+                (
+                    [id] => 623814802
+                    [is_bot] => 
+                    [first_name] => Maks
+                    [last_name] => T
+                    [language_code] => en
+                )
+
+            [chat] => Array
+                (
+                    [id] => 623814802
+                    [first_name] => Maks
+                    [last_name] => T
+                    [type] => private
+                )
+
+            [date] => 1613152961
+            [text] => текст
+        )
+
+)
+
+$data: 
